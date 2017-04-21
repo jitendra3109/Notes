@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Notes">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="200"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/user_details"
+        app:showAsAction="never"
+        android:title="User Profile"
+        android:orderInCategory="100"
+        ></item>
+    <item
+        android:id="@+id/logout"
+        app:showAsAction="always"
+        android:title="Logout"
+        android:orderInCategory="100"
+        ></item>
+</menu>

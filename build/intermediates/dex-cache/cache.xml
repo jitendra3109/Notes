@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/jsroyal/Internshala/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/jsroyal/Internshala/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_cf72f0e29d7fd6466a1774be1f9d3af04180e268.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jsroyal/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/jsroyal/Internshala/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_c0bc043728791888284410f49778b19d5cc487fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jsroyal/Github/Notes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/jsroyal/Github/Notes/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_51ec260c420667e19961fe346ca6d7e3e939d183.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jsroyal/Github/Notes/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/jsroyal/Github/Notes/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_17d89ba6984458d50bbecefcb8ed2520caba3a9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jsroyal/Github/Notes/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/jsroyal/Github/Notes/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_8198c37a21aaf1eb1f47142ea4cdc73a3b0e2796.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jsroyal/Internshala/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/jsroyal/Internshala/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_3529e8ba3ab8274720b7ee4674ddd01230b434a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jsroyal/Internshala/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/jsroyal/Internshala/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_6876bd291808fa229824c4b865a9df6da896f2c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jsroyal/Github/Notes/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/jsroyal/Github/Notes/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_8caec8508c0b8a9aaccbc24abce6ad5a7d7cbab0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jsroyal/Github/Notes/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/jsroyal/Github/Notes/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_ef039aa3e5a6aed64dd67bbe68222da961c21919.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jsroyal/Github/Notes/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/jsroyal/Github/Notes/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.3.1_bd3416d89083a7fe9442333e79f196a83917ff68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jsroyal/Github/Notes/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="/home/jsroyal/Github/Notes/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-21.0.3_860e491b828b5003587c7ac7b73dd2f722a33f7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jsroyal/Github/Notes/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/jsroyal/Github/Notes/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.3.1_60925e26477fcbb9d768fd3f177f59a4c2c01fe9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jsroyal/Internshala/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/jsroyal/Internshala/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_3b40ee65873bbd6ee8587cb3c570a65993312649.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jsroyal/Github/Notes/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/jsroyal/Github/Notes/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_26ce25e31476b420886f5d46f6fdac1b26448ad8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jsroyal/Github/Notes/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/jsroyal/Github/Notes/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_93bf9c4f45a45f6a361014b7edb48723573792cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jsroyal/Internshala/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/jsroyal/Internshala/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_8819aefea36ccd90e3c70326fef8949595bf128c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jsroyal/Github/Notes/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/jsroyal/Github/Notes/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_676256448c95e6e5b24b9282bee78df87587a488.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jsroyal/Github/Notes/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/jsroyal/Github/Notes/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_1051f5291c79484381fa81a4c1c8dceee4545183.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jsroyal/Internshala/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/jsroyal/Internshala/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_1b51ee46e719feb66a665d61caba4d4820eb30c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jsroyal/Internshala/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/jsroyal/Internshala/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.3.1_637e5cb907d361ae2af4b8e1d52efa9d0ee77b6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jsroyal/Internshala/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/jsroyal/Internshala/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.3.1_b2d3af22a5bd5015178afd5d80ce155cca5ab8ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jsroyal/Internshala/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="/home/jsroyal/Internshala/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-21.0.3_7af1447a5aed8ebc7647799f53431efe382f9e2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jsroyal/Internshala/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/jsroyal/Internshala/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.3.1_61ef8173b26a73072388771de8cfc7dd4fcba3a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jsroyal/Github/Notes/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/jsroyal/Github/Notes/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.3.1_363a283e456a94197521fe0db48ff18dc9539ed8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jsroyal/Internshala/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/jsroyal/Internshala/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_63ae0a86d624f4050fafab75be76e1f335c7e910.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jsroyal/Internshala/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/jsroyal/Internshala/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_ae192296d16886e1aa0873944918143e0109f661.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/jsroyal/Internshala/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/jsroyal/Internshala/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_fea2ef87ab1b9962f1152a9175039e9f2eac3694.jar" />
+    </item>
+
+</items>
